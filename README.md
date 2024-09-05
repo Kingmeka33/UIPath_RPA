@@ -66,31 +66,50 @@ For further assistance, contact the project owner:
 
 -UiPath Video Tutorials - Excel Automation (https://www.uipath.com/learning/video-tutorials/excel-datatables-automation)
 
--UiPath Academy. (n.d.). Introduction to RPA and Automation. Link
--UiPath Documentation. (n.d.). UI Automation with UiPath. Link
--UiPath. (n.d.). Excel Automation with UiPath. Link
 -UiPath Academy. (n.d.). Introduction to RPA and Automation. [Online]. Available at: https://academy.uipath.com/courses/introduction-to-rpa-and-automation. Accessed on October 10, 2023.
+
 -UiPath Documentation. (n.d.). UI Automation with UiPath. [Online]. Available at: https://docs.uipath.com/studio/docs/ui-automation. Accessed on October 10, 2023.
+
 -UiPath. (n.d.). Excel Automation with UiPath. [Online]. Available at: https://www.uipath.com/learning/video-tutorials/excel-datatables-automation. Accessed on October 10, 2023.
+
 -Automation Anywhere. (n.d.). RPA & Intelligent Automation. [Online]. Available at: https://www.automationanywhere.com/rpa. Accessed on October 10, 2023.
+
 -Blue Prism. (n.d.). Robotic Process Automation Software. [Online]. Available at: https://www.blueprism.com/. Accessed on October 10, 2023.
+
 -Microsoft Docs. (n.d.). Introduction to Power Automate. [Online]. Available at: https://docs.microsoft.com/en-us/power-automate/. Accessed on October 10, 2023.
+
 -Automation Anywhere University. (n.d.). RPA Certification Training. [Online]. Available at: https://www.automationanywhere.com/university. Accessed on October 10, 2023.
+
 -SeleniumHQ. (n.d.). Selenium. [Online]. Available at: https://www.selenium.dev/. Accessed on October 10, 2023.
+
 -Python Software Foundation. (n.d.). Robot Framework. [Online]. Available at: https://robotframework.org/. Accessed on October 10, 2023.
+
 -Red Hat. (n.d.). Ansible Automation Platform. [Online]. Available at: https://www.ansible.com/products/automation-platform. Accessed on October 10, 2023.
+
 -Pegasystems. (n.d.). Robotic Process Automation (RPA). [Online]. Available at: https://www.pega.com/what-is-robotic-process-automation. Accessed on October 10, 2023.
+
 -Microsoft Docs. (n.d.). Azure Logic Apps. [Online]. Available at: https://docs.microsoft.com/en-us/azure/logic-apps/. Accessed on October 10, 2023.
+
 -Jenkins. (n.d.). Jenkins Automation Server. [Online]. Available at: https://www.jenkins.io/. Accessed on October 10, 2023.
+
 -IBM. (n.d.). IBM Automation. [Online]. Available at: https://www.ibm.com/cloud/learn/automation-ai. Accessed on October 10, 2023.
+
 -Apache Foundation. (n.d.). Apache Hadoop. [Online]. Available at: https://hadoop.apache.org/. Accessed on October 10, 2023.
+
 -GitLab. (n.d.). GitLab CI/CD. [Online]. Available at: https://docs.gitlab.com/ee/ci/. Accessed on October 10, 2023.
+
 -Microsoft Power Platform. (n.d.). Power Automate Documentation. [Online]. Available at: https://docs.microsoft.com/en-us/power-automate/. Accessed on October 10, 2023.
+
 -OpenAI. (n.d.). GPT-3.5. [Online]. Available at: https://openai.com/research/gpt-3.5. Accessed on October 10, 2023.
+
 -Amazon Web Services. (n.d.). AWS Step Functions. [Online]. Available at: https://aws.amazon.com/step-functions/. Accessed on October 10, 2023.
+
 -Google Cloud. (n.d.). Google Cloud Functions. [Online]. Available at: https://cloud.google.com/functions. Accessed on October 10, 2023.
+
 -Robocorp. (n.d.). Robocorp Cloud. [Online]. Available at: https://robocorp.com/cloud. Accessed on October 10, 2023.
+
 -Red Hat. (n.d.). Red Hat Ansible Automation Platform. [Online]. Available at: https://www.redhat.com/en/technologies/management/ansible. Accessed on October 10, 2023.
+
 -Apache Kafka. (n.d.). Apache Kafka. [Online]. Available at: https://kafka.apache.org/. Accessed on October 10, 2023.
 
 
