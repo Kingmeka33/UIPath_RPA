@@ -61,8 +61,11 @@ For further assistance, contact the project owner:
 
 ## References
 -Introduction to RPA and Automation (https://academy.uipath.com/courses/introduction-to-rpa-and-automation)
+
 -UiPath Documentation - UI Automation (https://docs.uipath.com/studio/docs/ui-automation)
+
 -UiPath Video Tutorials - Excel Automation (https://www.uipath.com/learning/video-tutorials/excel-datatables-automation)
+
 -UiPath Academy. (n.d.). Introduction to RPA and Automation. Link
 -UiPath Documentation. (n.d.). UI Automation with UiPath. Link
 -UiPath. (n.d.). Excel Automation with UiPath. Link
