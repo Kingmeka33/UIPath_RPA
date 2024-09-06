@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Profile - Google Chrome",
+  "Type": "Screen",
+  "Id": "YcBG5iRJ3Uq5ZTwYVB6tWw",
+  "Reference": "PnnBvEEUIU6gv6r_AnAY6Q/YcBG5iRJ3Uq5ZTwYVB6tWw",
+  "ParentRef": "PnnBvEEUIU6gv6r_AnAY6Q/F4lvMFnHJkeaRVcmKIT7zQ",
+  "Created": "2024-09-06T13:06:56.9125124Z",
+  "Updated": "2024-09-06T13:06:56.9125124Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
