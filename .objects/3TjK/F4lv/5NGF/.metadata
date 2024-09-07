@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Projects",
+  "Type": "Screen",
+  "Id": "5NGF6V1Vx0GOO3om-Hrvgg",
+  "Reference": "PnnBvEEUIU6gv6r_AnAY6Q/5NGF6V1Vx0GOO3om-Hrvgg",
+  "ParentRef": "PnnBvEEUIU6gv6r_AnAY6Q/F4lvMFnHJkeaRVcmKIT7zQ",
+  "Created": "2024-09-07T07:23:55.3147085Z",
+  "Updated": "2024-09-07T07:23:55.3147085Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

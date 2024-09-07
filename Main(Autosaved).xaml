@@ -105,6 +105,7 @@
       <AssemblyReference>System.Linq.Async</AssemblyReference>
       <AssemblyReference>System.Collections</AssemblyReference>
       <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
+      <AssemblyReference>GlobalVariablesT1PNoYwrqg</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
   <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="608,2006" sap2010:WorkflowViewState.IdRef="Sequence_1">
@@ -150,7 +151,7 @@
                     </sap:WorkflowViewStateService.ViewState>
                     <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Click 'Create''" sap:VirtualizedContainerService.HintSize="354,225" sap2010:WorkflowViewState.IdRef="NClick_1" InteractionMode="DebuggerApi" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="c59cf83f-f4de-45ca-96a1-aeebcf0fa707" Version="V4">
                       <uix:NClick.Target>
-                        <uix:TargetAnchorable BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/clients" CVScreenId="9dd9346b-1475-48f6-956c-e8439d2ddb7d" ContentHash="36wjHv944UWAlGg6UAK4Ig" CvElementArea="1638, 321, 109, 46" CvType="Button" DesignTimeRectangle="1638, 322, 107, 44" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname=' Create         ' tag='BUTTON' type='' class='btn beveled-button-primary' check:innerText='Create' /&gt;" Guid="ebef7d8a-e763-4780-b623-0590ddd585da" InformativeScreenshot="3bd162e83afcc00f71cf1a13abb163a0.png" Reference="PnnBvEEUIU6gv6r_AnAY6Q/q5uKdijd60e-LtCSrHhO4Q" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/clients' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive" />
+                        <uix:TargetAnchorable BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/clients" CVScreenId="9dd9346b-1475-48f6-956c-e8439d2ddb7d" ContentHash="YRhlDEOoWUC2A1B5vCub5w" CvElementArea="1638, 321, 109, 46" CvType="Button" DesignTimeRectangle="1638, 322, 107, 44" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname=' Create         ' tag='BUTTON' type='' class='btn beveled-button-primary' check:innerText='Create' /&gt;" Guid="ebef7d8a-e763-4780-b623-0590ddd585da" InformativeScreenshot="3bd162e83afcc00f71cf1a13abb163a0.png" Reference="PnnBvEEUIU6gv6r_AnAY6Q/q5uKdijd60e-LtCSrHhO4Q" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/clients' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive" />
                       </uix:NClick.Target>
                       <uix:NClick.VerifyOptions>
                         <uix:VerifyExecutionOptions DisplayName="{x:Null}" Mode="Appears">
