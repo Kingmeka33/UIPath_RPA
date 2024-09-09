@@ -8,7 +8,8 @@ This project focuses on automating the User Acceptance Testing (UAT) process for
 - A UiPath Automation Cloud account
 - UiPath Studio Community Edition installed
 - Access to the web application (URL provided)
-- Credentials: Username – , Password – 
+- Credentials: Username – Emekabonginkosi4@gmail.com
+  Password –Kingmeka33* 
 
 ## Project Structure
 - GitHub Repository: Link provided to the repository
