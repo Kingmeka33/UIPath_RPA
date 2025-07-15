@@ -1,4 +1,3 @@
-# cmpg323project4-31370004
 # UiPath RPA User Acceptance Testing Project
 
 ## Overview
